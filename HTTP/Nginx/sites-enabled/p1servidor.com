@@ -1,0 +1,1 @@
+/etc/nginx/sites-available/p1servidor.com
